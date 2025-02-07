@@ -20,12 +20,12 @@ img {
     max-width: 100%;
 }
 
-[class*="__contenedor"] {
+[class*="contenedor"] {
     max-width: 120rem;
     margin: 0 auto;
     width: 95%;
 }
-[class*="__heading"] {
+[class*="heading"] {
     font-size: 4rem;
     text-align: center;
     font-weight: 900;
@@ -308,7 +308,7 @@ img {
     padding: 5rem 0;
 }
 @media (min-width: 768px) { 
-    .footer__contenido{
+    .footer__contenido {
         display: flex;
         justify-content: space-between;
     }
