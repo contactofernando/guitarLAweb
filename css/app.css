@@ -267,6 +267,10 @@ img {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+.entrada {
+    max-width: 80rem;
+    margin: 0 auto;
+}
 .entrada__contenido {
     padding: 2rem;
 }
